@@ -36,6 +36,7 @@ From the above flow, following are the drawbacks
     Also, placing the boiler above the tank helps to draw the water into the tank without the need of a pump. Let gravity take its effect!
 	
 This design is more compact and efficient. 
+
 ![Flow](ch1.png)
 
 
